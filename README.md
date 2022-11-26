@@ -4,7 +4,7 @@
 
 ---
 ## 目录
-### 第一章 认识数据[(https://github.com/YeaChur/python_study/blob/main/python_Chapter1/data_type.md)]
+### 第一章 [认识数据](https://github.com/YeaChur/python_study/blob/main/python_Chapter1/data_type.md "认识不同类型的数据")
 
 ## 初次面对一款编程语言
 
