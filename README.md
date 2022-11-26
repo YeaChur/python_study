@@ -3,6 +3,9 @@
 **这里会分享一些关于python学习的知识（当然啦，是个人理解）**
 
 ---
+## 目录
+### 第一章 认识数据[(https://github.com/YeaChur/python_study/blob/main/python_Chapter1/data_type.md)]
+
 ## 初次面对一款编程语言
 
 当我们第一次在教学视频或课本中看到属于python的第一句语法，大多数都是：人生苦短，我学python！
