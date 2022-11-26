@@ -44,3 +44,5 @@ while True:
 		break
 	i += 1
 ```
+
+# [第二天的题嘞](https://github.com/YeaChur/python_study/blob/main/lanqiao_study/dayly_title2.md)
