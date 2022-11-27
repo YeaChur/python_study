@@ -41,3 +41,4 @@ while (a!=1):
 	a = math.gcd(fm,fz)
 print(f"{fz}/{fm}")
 ```
+# [点此返回目录](https://github.com/YeaChur/python_study/blob/main/lanqiao_study/title/title.md)
