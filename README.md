@@ -5,9 +5,11 @@
 ---
 ## 目录
 ### 第一章 [认识数据](https://github.com/YeaChur/python_study/blob/main/python_Chapter1/data_type.md "认识不同类型的数据")
+---
 
 ## 蓝桥杯学习
 ### [做题啦](https://github.com/YeaChur/python_study/blob/main/lanqiao_study/title/title.md "蓝桥杯每日一题")
+---
 
 ## 扩展：第三方库学习
 ### tkinter库介绍及基本使用
